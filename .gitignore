@@ -23,5 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+# Environment
+.env
+
 # Prompt File
 weather_checker_build_prompt.md
